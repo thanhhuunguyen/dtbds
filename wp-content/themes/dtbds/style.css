@@ -2573,3 +2573,6 @@ ul.real-estate-cats-widget li ul {
 #content .panel-body ul {
     margin-left: 1.2em;
 }
+.panel-body h2 span strong, .panel-body h3 span strong, .panel-body p span strong, .panel-title i{
+    color: #19b8df !important;
+}
